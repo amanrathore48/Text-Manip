@@ -1,0 +1,54 @@
+:root {
+  --mydark: #393E46;
+  --mylight: #AAD8D3;
+  --mywhite: #EEEEEE;
+  --mybtn: #00ADB5;
+}
+.btn-box{
+  margin: 8px 15px;
+}
+.btn{
+    margin-right: 10px;
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: var(--mybtn);
+    color: var(--mywhite);
+    border-radius: 5px;
+    border: none;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+
+/* Dropdown Button */
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: var(--mywhite);
+    box-shadow: 0px 4px 8px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content button {
+    color: var(--mydark);
+    border: none;
+    margin-right: 2px;
+    padding: 4px 5px;
+    text-decoration: none;
+    /* display: block; */
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content button:hover {color: var(--mybtn);}
+  
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {display: block;}

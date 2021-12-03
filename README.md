@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Text-Manip
+It is a Web Application Where you can Manipulate your text. 
+Text-Manip includes following Fumctions:-
+
+### Capitalization 
+### Converts to Uppercase 
+### Converts to Lowercase 
+### Removes Extra Spaces
+### Word Counter
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
