@@ -16,7 +16,7 @@
     color: var(--myblack);
 }
 .container{
-    padding: 10px;
+    padding:0 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -29,7 +29,7 @@
     justify-content: space-between;
 }
 .text-info{
-    height: 40px;
+    height: 60px;
 }
 .text-info-part{
     text-align: center;
@@ -53,5 +53,5 @@
 }
 .ntp{
     font-family: 'Lato', sans-serif;
-    /* padding: 0 20px; */
+    overflow-wrap: break-word;
 }

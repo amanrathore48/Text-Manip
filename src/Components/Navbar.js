@@ -1,6 +1,5 @@
 import React from 'react'
-// import PropTypes from 'prop-types'
-import './navbar.css';
+import './Navbar.css';
 
 function Navbar(props) {
     return (

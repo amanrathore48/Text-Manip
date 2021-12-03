@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import './textbody.css'
+import './Textbody.css'
 import Buttons from './Buttons';
 
 
