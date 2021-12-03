@@ -1,6 +1,6 @@
 # Text-Manip
 It is a Web Application Where you can Manipulate your text. 
-Text-Manip includes following Fumctions:-
+Text-Manip includes following Tasks:-
 
 ### Capitalization 
 ### Converts to Uppercase 
