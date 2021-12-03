@@ -6,6 +6,7 @@
 }
 body{
     margin: 0;
+    background-color: var(--mywhite);
 }
 .app{
     min-height: 100vh;
